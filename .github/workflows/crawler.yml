@@ -2,27 +2,30 @@ name: CashConverters Crawler
 
 on:
   schedule:
-    - cron: "15 * * * *"  # Runs every 3 hours
+    - cron: "15 * * * *"  # Runs every 15 minutes
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: 🤖 Checkout repository
         uses: actions/checkout@v4
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5.4.0
         with:
           python-version: "3.13"
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Run crawler
+      - name: 🕷️ Run crawler
         run: python crawler.py
+      - name: 🗓️ Get Belgium Time
+        id: belgium_time
+        run: echo "CURRENT_TIME=$(date +'%Y-%m-%d %H:%M:%S' -d 'TZ=\"Europe/Brussels\"')" >> $GITHUB_ENV
       - name: 💅 Create Pull Request
         uses: peter-evans/create-pull-request@v7.0.6
         with:
-          title: "Cron crawler execution"
+          title: "Cron crawler execution - ${{ env.CURRENT_TIME }}"
           body-path: "pr_body.md"
