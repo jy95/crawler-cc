@@ -32,3 +32,5 @@ jobs:
         with:
           title: "Cron crawler execution - ${{ env.CURRENT_TIME }}"
           body-path: "pr_body.md"
+          reviewers: "jy95"
+          assignees: "jy95"
