@@ -21,10 +21,10 @@ def save_products(products):
 def generate_pr_body(new_products):
     with open(PR_BODY_FILE, "w", encoding="utf-8") as f:
         f.write("# New Products Available\n\n")
-        f.write("| Title | Price | URL |\n")
-        f.write("|---|---|---|\n")
+        f.write("| Title | Price | Store | URL |\n")
+        f.write("|---|---|---|---|\n")
         for product in new_products:
-            f.write(f"| {product['title']} | {product['price']} | [Link]({product['url']}) |\n")
+            f.write(f"| {product['title']} | {product['price']} | {product['store']} | [Link]({product['url']}) |\n")
 
 def scrape_page(page_number):
     url = URL_TEMPLATE.format(page_number)
@@ -39,11 +39,14 @@ def scrape_page(page_number):
     for product in product_elements:
         link = product.select_one(".product-title a")
         price = product.select_one(".price")
-        if link and price:
+        store = product.select_one(".product-store")  # Adjust selector if necessary
+
+        if link and price and store:
             products.append({
                 "title": link.text.strip(),
                 "url": link["href"],
-                "price": price.text.strip()
+                "price": price.text.strip(),
+                "store": store.text.strip()
             })
     return products
 
