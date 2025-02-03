@@ -47,7 +47,7 @@ def scrape_page(page_number):
                 "title": link.text.strip(),
                 "url": link["href"],
                 "price": price.text.strip(),
-                "store": store.text.strip()
+                "store": store.get_text(strip=True).split()[-1] if store else "Unknown"
             })
     return products
 
