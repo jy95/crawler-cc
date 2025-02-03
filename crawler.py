@@ -40,7 +40,7 @@ def scrape_page(page_number):
         print(product.prettify())
         link = product.select_one(".product-title a")
         price = product.select_one(".price")
-        store = product.select_one(".product-seller")  # Adjust selector based on actual HTML
+        store = product.select_one(".magasin")
 
         if link and price and store:
             products.append({
