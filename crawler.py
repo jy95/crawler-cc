@@ -39,7 +39,7 @@ def scrape_page(page_number):
     for product in product_elements:
         link = product.select_one(".product-title a")
         price = product.select_one(".price")
-        store = product.select_one(".product-store")  # Adjust selector if necessary
+        store = product.select_one(".product-seller")  # Adjust selector based on actual HTML
 
         if link and price and store:
             products.append({
