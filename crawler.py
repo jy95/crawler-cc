@@ -37,7 +37,7 @@ def scrape_page(page_number):
     
     products = []
     for product in product_elements:
-        print(product.prettify())
+        # print(product.prettify())
         link = product.select_one(".product-title a")
         price = product.select_one(".price")
         store = product.select_one(".magasin")
