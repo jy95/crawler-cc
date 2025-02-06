@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 move | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/623715-manette-ps3-move.html) |
+| Manette PS3 Dragon Shock | 14,99 € | BRUXELLES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/626421-manette-ps3-dragon-shock.html) |
