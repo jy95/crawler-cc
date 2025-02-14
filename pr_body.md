@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette PS3  Sony | 14,99 € | BRAINE l'ALLEUD | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/633946-manette-ps3-sony.html) |
+| Console Playstation  ps3... | 39,99 € | GOSSELIES | [Link](https://www.cashconverters.be/fr/consoles-sony/634889-console-playstation-ps3-slim-160-gb-sans-manette.html) |
+| manette compatible ps3... | 5,99 € | AYWAILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/634706-manette-compatible-ps3-dragon-war.html) |
