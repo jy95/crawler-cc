@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette moove ps3-ps4 sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/lecteurs-graveurs-dvd/636283-manette-moove-ps3-ps4-sony.html) |
+| Manette Ps3 Sony | 29,99 € | CORA Anderlecht | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/636795-manette-ps3-sony.html) |
