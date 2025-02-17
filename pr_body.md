@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps3 Sony | 29,99 € | CORA Anderlecht | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/636795-manette-ps3-sony.html) |
+| Manette sony  ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/637604-manette-sony-ps3.html) |
