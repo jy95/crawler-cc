@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps Move PS3 | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/642950-manette-ps-move-ps3.html) |
+| Manette PS3 | 19,99 € | CORA Anderlecht | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/644649-manette-ps3.html) |
