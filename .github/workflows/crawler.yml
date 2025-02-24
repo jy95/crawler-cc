@@ -28,7 +28,7 @@ jobs:
           export CURRENT_TIME=$(TZ="Europe/Brussels" date +'%Y-%m-%d %H:%M:%S')
           echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
       - name: 💅 Create Pull Request
-        uses: peter-evans/create-pull-request@v7.0.6
+        uses: peter-evans/create-pull-request@v7.0.7
         with:
           title: "Cron crawler execution - ${{ env.CURRENT_TIME }}"
           body-path: "pr_body.md"
