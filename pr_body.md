@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Console Playstation  PS3... | 29,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/consoles-sony/648107-console-playstation-ps3-slim-149gb-ss-manette.html) |
-| Manette PS3 UnderControl | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/648080-manette-ps3-undercontrol.html) |
+| Manette 3206 ps3 | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/649479-manette-3206-ps3.html) |
+| manette ps3 officiel sony | 19,99 € | AYWAILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/649504-manette-ps3-officiel-sony.html) |
