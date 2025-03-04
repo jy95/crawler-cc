@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| ACCESSOIRES JEUX VIDEO... | 19,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/653590-accessoires-jeux-video-manette-ps3.html) |
+| Manette move ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/654685-manette-move-ps3.html) |
