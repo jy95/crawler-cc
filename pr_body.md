@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Générique PS3 | 19,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/661432-manette-generique-ps3.html) |
-| MANETTE PS3  OMEGA | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/661424-manette-ps3-omega.html) |
+| Manette Sans Fil Freaks and... | 34,99 € | JETTE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/661931-manette-sans-fil-freaks-and-geeks-ps4-ps3-pc.html) |
+| Manette PS3 | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/662301-manette-ps3.html) |
