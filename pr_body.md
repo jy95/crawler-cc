@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 2395 | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/663051-manette-ps3-2395.html) |
+| Console Playstation  PS3... | 29,99 € | BERCHEM STE-AGATHE | [Link](https://www.cashconverters.be/fr/consoles-sony/664485-console-playstation-ps3-500-ss-manette.html) |
