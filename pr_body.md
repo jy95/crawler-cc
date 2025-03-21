@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/671631-manette-ps3.html) |
+| Manette xbox 360/ps3 Nacon... | 9,99 € | GOSSELIES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/672072-manette-xbox-360-ps3-nacon-filiaire.html) |
