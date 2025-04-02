@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette PS3/PS4/pc filaire... | 19,99 € | MOUSCRON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/684487-manette-ps3-ps4-pc-filaire-egogear.html) |
+| manette ps3 | 19,99 € | BRAINE l'ALLEUD | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/686002-manette-ps3.html) |
