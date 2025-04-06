@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps3 Sony rouge | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/688473-manette-ps3-sony-rouge.html) |
+| Manette PS3 Sony 0036 | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/689046-manette-ps3-sony-0036.html) |
