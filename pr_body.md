@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Sony 0036 | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/689046-manette-ps3-sony-0036.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/689271-manette-ps3-sony.html) |
+| Manette Under Control PS3 | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/689260-manette-under-control-ps3.html) |
