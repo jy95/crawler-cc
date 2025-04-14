@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Officielle Sony | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/696048-manette-ps3-officielle-sony.html) |
+| Manette PS3 filaire | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/697103-manette-ps3-filaire.html) |
