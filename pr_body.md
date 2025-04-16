@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps3 Under | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/698545-manette-ps3-under.html) |
-| manette ps3  max excell | 4,99 € | AYWAILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/698513-manette-ps3-max-excell.html) |
+| Manette Sans Fil Sony PS3 | 24,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/699103-manette-sans-fil-sony-ps3.html) |
+| MANETTE PS3 LINQ | 9,99 € | DROGENBOS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/698925-manette-ps3-linq.html) |
