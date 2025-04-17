@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Sans Fil Sony PS3 | 24,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/699103-manette-sans-fil-sony-ps3.html) |
-| MANETTE PS3 LINQ | 9,99 € | DROGENBOS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/698925-manette-ps3-linq.html) |
+| Manette PS3/PC/Switch... | 24,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/700078-manette-ps3-pc-switch-dragon-shock-nebula.html) |
+| Manette PS3 Dragon War | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/700120-manette-ps3-dragon-war.html) |
