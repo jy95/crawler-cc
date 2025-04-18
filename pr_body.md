@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3/PC/Switch... | 24,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/700078-manette-ps3-pc-switch-dragon-shock-nebula.html) |
-| Manette PS3 Dragon War | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/700120-manette-ps3-dragon-war.html) |
+| Manette Sony PS3 | 24,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/701623-manette-sony-ps3.html) |
+| Manette PS3 DEA FACTORY | 9,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/701624-manette-ps3-dea-factory.html) |
