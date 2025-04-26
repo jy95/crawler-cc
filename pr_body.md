@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Camo | 7,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/708782-manette-ps3-camo.html) |
+| Manette compatible Ps3/Ps4... | 9,99 € | SERAING | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/709546-manette-compatible-ps3-ps4-egogear.html) |
