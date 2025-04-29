@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/711680-manette-ps3.html) |
+| Manette  Dragon War PS3 | 4,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/712479-manette-dragon-war-ps3.html) |
