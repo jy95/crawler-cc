@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Sony | 11,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/720760-manette-ps3-sony.html) |
+| Manette PS3 Dragon Shock | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/722558-manette-ps3-dragon-shock.html) |
