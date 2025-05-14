@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Dragon Shock | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/722558-manette-ps3-dragon-shock.html) |
+| Manette ps3 Compatible... | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/725962-manette-ps3-compatible-filiaire.html) |
