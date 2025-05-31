@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Under Control | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/741693-manette-ps3-under-control.html) |
+| manette ps3 sony | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/742041-manette-ps3-sony.html) |
+| Manette move ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/742108-manette-move-ps3.html) |
