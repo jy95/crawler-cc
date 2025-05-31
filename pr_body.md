@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 etat | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/740635-manette-ps3-etat.html) |
+| Manette PS3 Under Control | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/741693-manette-ps3-under-control.html) |
