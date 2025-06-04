@@ -1,8 +1,8 @@
 name: CashConverters Crawler
 
 on:
-  schedule:
-    - cron: "0 */3 * * *"  # Runs at the beginning of every 3rd hour
+#  schedule:
+#    - cron: "0 */3 * * *"  # Runs at the beginning of every 3rd hour
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
