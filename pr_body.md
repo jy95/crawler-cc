@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 | 9,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/743737-manette-ps3.html) |
+| Manette PS3 Sony | 19,99 € | SAINT-JOSSE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/745091-manette-ps3-sony.html) |
