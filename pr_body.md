@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Switch PS3 PC WX4... | 19,99 € | BRUXELLES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/755054-manette-switch-ps3-pc-wx4-premium-wireless-controller.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/756685-manette-ps3-sony.html) |
