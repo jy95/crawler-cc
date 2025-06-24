@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette PS3 | 3,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/762005-manette-ps3.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/762134-manette-ps3-sony.html) |
