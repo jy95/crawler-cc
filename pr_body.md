@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Cable Manette PS3 | 4,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/769392-cable-manette-ps3.html) |
+| Manette ps3 original | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/769642-manette-ps3-original.html) |
