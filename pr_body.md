@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 original | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/769642-manette-ps3-original.html) |
+| Manette moove ps3/ps4 | 14,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/770246-manette-moove-ps3-ps4.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/770803-manette-ps3-sony.html) |
