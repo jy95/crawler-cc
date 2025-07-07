@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 sony | 19,99 € | BOUGE (NAMUR) | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/773214-manette-ps3-sony.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/773406-manette-ps3-sony.html) |
