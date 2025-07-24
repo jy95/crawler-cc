@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 8344 | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/788014-manette-ps3-8344.html) |
-| Manette ps3 Dragon war blue | 19,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/788015-manette-ps3-dragon-war-blue.html) |
+| ACCESSOIRES JEUX VIDEO... | 19,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/790285-accessoires-jeux-video-manette-ps3-sony.html) |
+| ACCESSOIRES JEUX VIDEO... | 9,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/790280-accessoires-jeux-video-manette-compatible-ps3.html) |
