@@ -2,8 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 | 29,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/791781-manette-ps3.html) |
-| Manette PS3 | 29,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/791773-manette-ps3.html) |
-| manette ps3 blanche | 24,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/791702-manette-ps3-blanche.html) |
-| manette ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/jeux-nintendo/630130-jeux-nintendo-key-we.html) |
-| Manette sony  ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/autres-sports/791682-manette-sony-ps3.html) |
+| Manette Nintendo... | 19,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/792255-manette-nintendo-switch-ps3-pc.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/792380-manette-ps3-sony.html) |
