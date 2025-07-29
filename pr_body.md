@@ -2,6 +2,7 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/795290-manette-ps3-sony.html) |
-| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/794969-manette-ps3-sony.html) |
-| Manette PS3 sans marque | 7,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/794996-manette-ps3-sans-marque.html) |
+| Manette ps3 Sony | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/795633-manette-ps3-sony.html) |
+| Manette ps3 Sony | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/795634-manette-ps3-sony.html) |
+| MANETTE PS3 / PS4   Gioteck... | 19,99 € | ATH | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/795579-manette-ps3-ps4-gioteck-vx.html) |
+| Manette PS3 Dragonshock... | 19,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/795499-manette-ps3-dragonshock-dscps3.html) |
