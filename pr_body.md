@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/petit-electromenager/797495-manette-ps3.html) |
-| manette ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/elements-separes-autres/769737-paire-hp-pioneer-s-hm70.html) |
+| Manette PS3 | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/798755-manette-ps3.html) |
+| Manette ps3 (1037) | 29,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/798373-manette-ps3-1037.html) |
