@@ -2,5 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps3 | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/800444-manette-ps3.html) |
-| Manette ps3 no officiel... | 9,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/800316-manette-ps3-no-officiel-call-of-duty.html) |
+| manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/801133-manette-ps3-sony.html) |
