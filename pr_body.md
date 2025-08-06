@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 compat filaire... | 6,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/802828-manette-ps3-compat-filaire-freaks.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/803183-manette-ps3-sony.html) |
