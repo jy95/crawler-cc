@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| MANETTE PS3 GENERIQUE | 14,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/806342-manette-ps3-generique.html) |
+| Manette compatible Ps3 | 9,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/807209-manette-compatible-ps3.html) |
