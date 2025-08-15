@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 Filaire | 7,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/810357-manette-ps3-filaire.html) |
+| MANETTE PS3/PC LB GA GPVI01 B | 7,99 € | DROGENBOS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/812325-manette-ps3-pc-lb-ga-gpvi01-b.html) |
