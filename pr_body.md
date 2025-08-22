@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette pc/ios/ps3/android... | 24,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/818118-manette-pc-ios-ps3-android-dragon-shock.html) |
+| Manette ss fil  Freak... | 39,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/819602-manette-ss-fil-freak-ps4-ps3-pc.html) |
