@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ss fil  Freak... | 39,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/819602-manette-ss-fil-freak-ps4-ps3-pc.html) |
+| Manette sony  ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/819905-manette-sony-ps3.html) |
+| manette ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/820060-manette-ps3.html) |
