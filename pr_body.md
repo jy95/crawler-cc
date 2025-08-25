@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 9,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/821608-manette-ps3.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/822168-manette-ps3-sony.html) |
