@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette sony  ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/827623-manette-sony-ps3.html) |
+| PS3 LECTEUR CD HS MANETTE | 29,99 € | ATH | [Link](https://www.cashconverters.be/fr/consoles-sony/827195-consol-ps3-manette.html) |
