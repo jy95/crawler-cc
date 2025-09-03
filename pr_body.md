@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| PS3 LECTEUR CD HS MANETTE | 29,99 € | ATH | [Link](https://www.cashconverters.be/fr/consoles-sony/827195-consol-ps3-manette.html) |
+| MANETTE PS3  SONY | 14,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/830089-manette-ps3-sony.html) |
