@@ -2,5 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 Sony | 19,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/830149-manette-ps3-sony.html) |
-| Manette compatible Ps3 Freaks | 17,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/830153-manette-compatible-ps3-freaks.html) |
+| manette ps3 compatible... | 4,99 € | BRAINE l'ALLEUD | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/830633-manette-ps3-compatible-filaire.html) |
