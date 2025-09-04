@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 compatible... | 4,99 € | BRAINE l'ALLEUD | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/830633-manette-ps3-compatible-filaire.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/petit-electromenager/827071-machine-a-cafe-krups.html) |
+| Manette PS3 Sony avec cover | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/petit-electromenager/726744-grillade-barbecue-tefal-grill-n-pack.html) |
