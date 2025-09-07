@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Under Control | 3,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/832416-manette-ps3-under-control.html) |
+| Manette PS3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/833808-manette-ps3.html) |
