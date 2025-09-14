@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 7,99 € | LIEGE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/840271-manette-ps3.html) |
+| Chargeur manette ps3 | 4,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/839554-chargeur-manette-ps3.html) |
