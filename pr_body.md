@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 | 29,99 € | GOSSELIES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/841203-manette-ps3.html) |
+| Manette ps3 | 19,99 € | FLERON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/841863-manette-ps3.html) |
