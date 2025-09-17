@@ -2,6 +2,7 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 rose | 24,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843112-manette-ps3-rose.html) |
-| Manette BigBen  Ps3 | 9,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/842682-manette-bigben-ps3.html) |
-| manette ps3 white | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843114-manette-ps3-white.html) |
+| Manette PS3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843577-manette-ps3.html) |
+| Manette PS3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843578-manette-ps3.html) |
+| Manette PS3 | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843542-manette-ps3.html) |
+| MANETTE PS3  SUBSONIC | 7,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/843429-manette-ps3-subsonic.html) |
