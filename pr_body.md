@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 rouge | 12,99 € | EVERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/844040-manette-ps3-rouge.html) |
+| Console PS3 Sans manette | 24,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/844539-console-ps3-sans-manette.html) |
