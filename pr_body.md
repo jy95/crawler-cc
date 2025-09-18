@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Rouge Sony | 29,99 € | JAMBES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/845266-manette-ps3-rouge-sony.html) |
+| manette ps3 | 19,99 € | MOUSCRON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/845699-manette-ps3.html) |
+| Manette PS3 | 14,99 € | BRUXELLES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/845756-manette-ps3.html) |
