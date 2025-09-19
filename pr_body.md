@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 | 19,99 € | HERSTAL | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/846318-manette-ps3.html) |
+| DragonShock - Manette RGB... | 24,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/845715-manette-dragon-shock.html) |
