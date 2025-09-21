@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| DragonShock - Manette RGB... | 24,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/845715-manette-dragon-shock.html) |
+| Manette PS3 | 19,99 € | LIEGE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/849294-manette-ps3.html) |
