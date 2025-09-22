@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 | 19,99 € | LIEGE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/849294-manette-ps3.html) |
+| Console PS3 500Gb sans... | 29,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/850002-console-ps3-500gb-sans-manette.html) |
