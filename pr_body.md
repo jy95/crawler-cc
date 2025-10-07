@@ -2,4 +2,7 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 Filaire | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/864469-manette-ps3-filaire.html) |
+| manette ps3 officiel | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/864835-manette-ps3-officiel.html) |
+| manette ps3 officiel | 29,99 € | SAMBREVILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/864834-manette-ps3-officiel.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/864769-manette-ps3-sony.html) |
+| Manette PS3 | 9,99 € | HERSTAL | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/864739-manette-ps3.html) |
