@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 | 2,99 € | LIEGE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/869215-manette-ps3.html) |
+| Manette ps3 rose | 24,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/871392-manette-ps3-rose.html) |
