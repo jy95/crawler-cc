@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3/PS4 Trade | 9,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/873519-manette-ps3-ps4-trade.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/874787-manette-ps3-sony.html) |
