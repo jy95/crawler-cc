@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 - London Edition | 2,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/876293-manette-ps3-london-edition.html) |
+| Manette PS3 Dualshock | 19,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/877654-manette-ps3-dualshock.html) |
+| Manette PS3 | 8,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/877653-manette-ps3.html) |
