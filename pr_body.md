@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 sony rouge | 24,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/894166-manette-ps3-sony-rouge.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/894462-manette-ps3-sony.html) |
+| Manette ps3 | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/894456-manette-ps3.html) |
