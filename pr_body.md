@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette GXT (PC/PS3) | 9,99 € | VERVIERS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/896379-manette-gxt-pc-ps3.html) |
+| Manette PS3 | 19,99 € | FLERON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/897580-manette-ps3.html) |
