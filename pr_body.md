@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| MANETTE PS3 | 14,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/907837-manette-ps3.html) |
+| Manette ps3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/909966-manette-ps3-sony.html) |
