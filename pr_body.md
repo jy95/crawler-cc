@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Geeks Freaks  Ps3 | 9,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/914081-manette-geeks-freaks-ps3.html) |
+| Manette PS3/PS4 Under Control | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/914761-manette-ps3-ps4-under-control.html) |
