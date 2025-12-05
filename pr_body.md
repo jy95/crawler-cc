@@ -2,5 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 sony black | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/petit-electromenager/924952-manette-ps3-sony-black.html) |
-| Manette ps3 sony black | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/light-show/644566-jeu-de-lumiere-jb-systems.html) |
+| Manette pour ps3... | 9,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/925984-manette-pour-ps3-undercontrol-camo.html) |
