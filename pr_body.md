@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette pour ps3... | 9,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/925984-manette-pour-ps3-undercontrol-camo.html) |
+| manette ps3 sony | 5,99 € | BOUGE (NAMUR) | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/927678-manette-ps3-sony.html) |
