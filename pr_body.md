@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Console Playstation PS3... | 39,99 € | MONS | [Link](https://www.cashconverters.be/fr/consoles-sony/936797-console-playstation-ps3-slim-250gb-sans-manette.html) |
-| manette compatible PS3... | 19,99 € | LIEGE CENTRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/937729-manette-compatible-ps3-under-control.html) |
+| Manette Ps3 Sony | 19,99 € | SERAING | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/938515-manette-ps3-sony.html) |
+| manette ps3 voir état | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/938531-manette-ps3-voir-etat.html) |
