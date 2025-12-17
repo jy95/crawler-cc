@@ -2,5 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Ps3 Sony | 19,99 € | SERAING | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/938515-manette-ps3-sony.html) |
-| manette ps3 voir état | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/938531-manette-ps3-voir-etat.html) |
+| MANETTE PS3 EASYSMX ESM... | 14,99 € | ATH | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/938866-manette-ps3-easysmx-esm-9013-pro.html) |
