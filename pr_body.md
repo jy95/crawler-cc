@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Buzz Ps3 | 24,99 € | FLERON | [Link](https://www.cashconverters.be/fr/accessoires-informatique/940542-manette-buzz-ps3.html) |
+| Console PS3 Slim 120Gb sans... | 34,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/944057-console-ps3-slim-120gb-sans-manette.html) |
