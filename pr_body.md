@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette  sony ps3 | 14,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/950122-manette-sony-ps3.html) |
-| Manette PS3 Sony Pour Pièces | 2,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/950167-manette-ps3-sony-pour-pieces.html) |
+| Manette Ps3 Sony | 24,99 € | JAMBES | [Link](https://www.cashconverters.be/fr/consoles-sony/950628-manette-ps3-sony.html) |
+| manette PS3 rouge | 19,99 € | MOUSCRON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/951632-manette-ps3-rouge.html) |
