@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Sony PS3 | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/952365-manette-sony-ps3.html) |
-| Manette ps3 filaire lb-17l | 9,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953271-manette-ps3-filaire-lb-17l.html) |
+| Manette ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953623-manette-ps3.html) |
+| Manette Compatible PS3 BigBen | 7,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953686-manette-compatible-ps3-bigben.html) |
