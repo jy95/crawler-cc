@@ -2,5 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953623-manette-ps3.html) |
-| Manette Compatible PS3 BigBen | 7,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953686-manette-compatible-ps3-bigben.html) |
+| Manette PS3 Moove | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953976-manette-ps3-moove.html) |
+| Manette PS3 Moove | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/953977-manette-ps3-moove.html) |
