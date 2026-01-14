@@ -2,5 +2,6 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Console PS3 120gb slim... | 39,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/963258-console-ps3-120gb-slim-sans-manette.html) |
-| MANETTE PS3 | 14,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/960438-manette-ps3.html) |
+| Console PS3 ultra 12gb sans... | 29,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/964923-console-ps3-ultra-12gb-sans-manette.html) |
+| Manette ps3 move navigation... | 29,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/964921-manette-ps3-move-navigation-scelle-neuf.html) |
+| Manette PS3 | 9,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/964382-manette-ps3.html) |
