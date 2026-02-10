@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 | 9,99 € | TUBIZE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/994270-manette-ps3.html) |
+| manette bigben ps3 | 4,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/994334-manette-bigben-ps3.html) |
