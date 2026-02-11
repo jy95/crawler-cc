@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette bigben ps3 | 4,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/994334-manette-bigben-ps3.html) |
+| Manette pc/ps3/XBOX filaire... | 19,99 € | GOSSELIES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/995086-manette-pc-ps3-xbox-filaire-easysmx-esm-9110.html) |
