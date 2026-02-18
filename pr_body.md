@@ -2,5 +2,6 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| MANETTE PS3 GRISE | 14,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1001047-manette-ps3-grise.html) |
-| Manette 7 en 1  2,4G... | 9,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1001041-manette-7-en-1-24g-wireless-rouge-pc-ps1-ps2-ps3-360.html) |
+| Console PS3 Slim sans manette | 39,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/1003267-console-ps3-slim-sans-manette.html) |
+| Manette PS3 Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-informatique/1002802-manette-ps3-sony.html) |
+| Manette PS3 Under | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/outillage/1002877-manette-ps3-under.html) |
