@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| manette ps3 sony | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1007041-manette-ps3-sony.html) |
+| Console PS3 sans manette | 29,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/1009165-console-ps3-sans-manette.html) |
