@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| chargeur manette ps3 | 3,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1015246-chargeur-manette-ps3.html) |
+| Manette ps3  Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1016534-manette-ps3-sony.html) |
