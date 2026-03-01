@@ -2,4 +2,5 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette ps3  Sony | 14,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1016534-manette-ps3-sony.html) |
+| Console PS3 slim 12gb manette | 39,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/consoles-sony/1017338-console-ps3-slim-12gb-manette.html) |
+| Manette Sony PS3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/percussions-batteries/1017333-manette-sony-ps3.html) |
