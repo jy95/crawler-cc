@@ -2,4 +2,4 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette Dualshock PS3 | 19,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1022891-manette-dualshock-ps3.html) |
+| Manette ps3 | 14,99 € | ARLON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1025057-manette-ps3.html) |
