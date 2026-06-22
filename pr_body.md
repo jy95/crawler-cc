@@ -2,14 +2,14 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Manette PS3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1121056-manette-ps3.html) |
-| Manette PS4/PS3/PC Egogear... | 19,99 € | AYWAILLE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1115510-manette-ps4-ps3-pc-egogear-sc10-p4.html) |
-| Manette Ps3 | 19,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1115917-manette-ps3.html) |
-| manette ps4-ps3 | 19,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1121044-manette-ps4-ps3.html) |
-| Manette PS3 Sony | 9,99 € | CORA Anderlecht | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1120496-manette-ps3-sony.html) |
-| Manette Filiaire PS3... | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1116462-manette-filiaire-ps3-generique.html) |
-| Manette Compatible Pc/Ps3... | 9,99 € | SERAING | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1112440-manette-compatible-pc-ps3-thrusmaster-dual-analog-3.html) |
-| Manette PS4/PS3 Wireless... | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1103366-manette-xbox360-wireless-gamepad.html) |
-| Manette Compatible PS3 Bigben | 4,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1113298-manette-compatible-ps3-bigben.html) |
-| Pistolet pour manette move... | 4,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/petit-electromenager/1096999-machine-a-pain-essentiel-b.html) |
-| Manette Sans Fil PS3 - No... | 4,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1117894-manette-sans-fil-ps3-no-brand.html) |
+| MANETTE PS3 | 34,99 € | DROGENBOS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1138375-manette-ps3.html) |
+| Manette Sans Fil Sony PS3 | 19,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1135702-manette-sans-fil-sony-ps3.html) |
+| MANETTE PS3 | 19,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1135708-manette-ps3.html) |
+| manette  ps3 | 19,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1136306-manette-ps3.html) |
+| Manette PS3 Sony | 19,95 € | GRIVEGNEE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1129293-manette-ps3-sony.html) |
+| manette ps3 | 9,99 € | LA LOUVIERE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1136637-manette-ps3.html) |
+| Manette Sans Fil Générique... | 9,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1135703-manette-sans-fil-generique-ps3.html) |
+| Manette G_Dragonwar PS3 | 9,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1135518-manette-gdragonwar-ps3.html) |
+| Manette ps3/ps2/pc... | 9,99 € | GOSSELIES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1127963-manette-ps3-ps2-pc-thrustmaster-t-wireless.html) |
+| Manette PS3 Filaire | 4,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1131882-manette-ps3-filaire.html) |
+| Manette compatible pour ps3 | 4,99 € | FROYENNES | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1134633-manette-compatible-pour-ps3.html) |
