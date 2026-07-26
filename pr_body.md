@@ -2,8 +2,9 @@
 
 | Title | Price | Store | URL |
 |---|---|---|---|
-| Console PS3 slim 250gb sans... | 39,99 € | COUILLET | [Link](https://www.cashconverters.be/fr/consoles-sony/1173220-console-ps3-slim-250gb-sans-manettes-sans-cable-sans-boite.html) |
-| Manette sans fil PS3... | 9,99 € | MARCHE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1173956-manette-sans-fil-ps3-spirit-of-gamer.html) |
-| MANETTE PS3 | 9,99 € | ATH | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1172954-manette-ps3.html) |
-| MANETTE PS3 | 9,99 € | TUBIZE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1172681-manette-ps3.html) |
-| Manette PS3 Sony | 9,99 € | QUAREGNON | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1173108-manette-ps3-sony.html) |
+| Manette Ps3 RED | 29,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1177119-manette-ps3-red.html) |
+| Manette PS3 | 19,99 € | WAVRE | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1177467-manette-ps3.html) |
+| MANETTE PS3 | 19,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1175823-manette-ps3.html) |
+| MANETTE PS3 | 19,99 € | MONS | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1175822-manette-ps3.html) |
+| Manette PS3 sn: ZYH9127004519 | 7,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1176903-manette-ps3-sn-zyh9127004519.html) |
+| Manette PS3 sn:D532123603667 | 7,99 € | ETTERBEEK | [Link](https://www.cashconverters.be/fr/accessoires-jeux-video/1176902-manette-ps3-sn-d532123603667.html) |
